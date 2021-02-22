@@ -7,4 +7,5 @@ I'm Ramazan, Software Developer and researcher of the future.
 - 💬 Ask me about Java Spring and Node.js
 - 📫 How to reach me: ramazansakin45863@gmail.com
 
-*I’m open to part-time job proposals!*
+
+> *I’m open to part-time job proposals!*
