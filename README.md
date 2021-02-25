@@ -29,5 +29,5 @@ I'm Ramazan, Sr. Software Engineer and researcher of the future.
 <br/>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
+<img src="https://github-readme-stats.vercel.app/api?username=ramazansakin&show_icons=true&theme=gotham" alt="ramazansakin" />
 
