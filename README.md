@@ -27,4 +27,6 @@ I'm Ramazan, Sr. Software Engineer and researcher of the future. I’m open to p
 <br/>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ramazansakin&show_icons=true&theme=gotham" alt="ramazansakin" />
+<a href="https://github.com/ramazansakin">
+<img src="https://github-readme-stats.vercel.app/api?username=ramazansakin&show_icons=true&theme=gotham_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Ramazan Skin" />
+</a>
