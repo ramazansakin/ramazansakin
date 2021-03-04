@@ -3,16 +3,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
-
+w
 I'm Ramazan, Sr. Software Engineer and researcher of the future. I’m open to part-time job proposals!
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 Ask me about Java Spring and Node.js!
 - 📫 How to reach me: ramazansakin45863@gmail.com
-<a href="https://www.linkedin.com/in/ramazan-sakin">
-  <img align="left" alt="Ramazan Sakins's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 <br/>
 
