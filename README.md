@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
-w
+
 I'm Ramazan, Sr. Software Engineer and researcher of the future. I’m open to part-time job proposals!
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
