@@ -7,6 +7,7 @@
 I'm Ramazan, Sr. Software Engineer and researcher of the future. I’m open to part-time job proposals!
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
+- 🔭 I’m currently searching and learning Go!
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 Ask me about Java Spring and Node.js!
 - 📫 How to reach me: ramazansakin45863@gmail.com
