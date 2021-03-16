@@ -6,7 +6,7 @@
 
 I'm Ramazan, Sr. Software Engineer and researcher of the future.
 <br/>
-***I’m open to part-time job proposals or being volunteer for open source projects!***
+***I’m open to part-time job proposals!***
 <br/>
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
