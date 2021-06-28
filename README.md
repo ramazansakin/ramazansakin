@@ -5,7 +5,10 @@
 <br/>
 
 I'm Ramazan, Software Engineer and researcher of the future.
+
 <br/>
+<i>I can refer for many positions for several opportunities, if you send your CV.</i>
+
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
