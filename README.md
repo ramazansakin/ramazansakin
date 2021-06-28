@@ -5,6 +5,7 @@
 <br/>
 
 I'm Ramazan, Software Engineer and researcher of the future.
+<br/>
 <i>I can be reference for several opportunities, if you send your CV.</i>
 <br/>
 
