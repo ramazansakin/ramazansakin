@@ -6,7 +6,7 @@
 
 I'm Ramazan, Software Engineer and researcher of the future.
 <br/>
-<i>I can be reference for several opportunities, if you send your CV.</i>
+<i>I can be reference for several opportunities, if you send your CV. I can also help as a technical coach you to guide how to develop yourself and your CV.</i>
 <br/>
 
 
