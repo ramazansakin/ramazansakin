@@ -6,8 +6,6 @@
 
 I'm Ramazan, Software Engineer and researcher of the future.
 <br/>
-<i>I can be reference for several opportunities, if you send your CV. I can also help you as a technical coach to guide how to develop yourself and your CV.</i>
-<br/>
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
