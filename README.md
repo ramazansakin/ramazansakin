@@ -12,7 +12,6 @@ I'm Ramazan, Software Engineer and researcher of the future.
 - 🔭 I’m currently searching and learning Go!
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 Ask me about Java Spring and Node.js!
-- 📫 How to reach me: ramazansakin63@gmail.com
 
 <br/>
 
