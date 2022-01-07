@@ -9,7 +9,7 @@ I'm Ramazan, Software Engineer and researcher of the future.
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently searching and learning Go!
+- 🔭 I’m currently searching and learning Blockchain Techs!
 - 🤔 I'm looking for helping with solving coding issues!
 
 <br/>
