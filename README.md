@@ -11,12 +11,13 @@ I'm Ramazan, Software Engineer, Instructor and researcher of the future.
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I’m currently searching and learning Web3 with Blockchain Techs!
 - 🤔 I'm looking for helping with solving coding issues!
+- 🎯 I'm develoing myself on NodeJS and Django.
 
 <br/>
 
 ![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java&&NodeJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java&&NodeJs&&Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <br/>
