@@ -7,8 +7,6 @@
 I'm Ramazan, Software Engineer, Instructor, Mentor, Youtuber and researcher of the future.
 <br/>
 
-I'm open to new opportunities as fully-remote.
-<br/>
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I’m currently searching and learning Web3 with Blockchain Techs!
