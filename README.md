@@ -9,9 +9,8 @@ I'm Ramazan, Software Engineer, Instructor, Mentor, Youtuber and researcher of t
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently searching and learning Web3 with Blockchain Techs!
+- 🔭 I’m currently trying to get a certificate on AWS!
 - 🤔 I'm looking for helping with solving coding issues!
-- 🎯 I'm developing myself on NodeJS and Go.
 
 <br/>
 
