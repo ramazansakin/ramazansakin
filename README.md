@@ -20,3 +20,7 @@ I'm Ramazan, Software Engineer, Instructor, Mentor, Youtuber and researcher of t
 ![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <br/>
+
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramazansakin&show_icons=true&theme=darcula&show_icons=true&include_all_commits=true&count_private=true" alt="Ramazan Sakin" />
+</a>
