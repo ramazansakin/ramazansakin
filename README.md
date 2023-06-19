@@ -4,13 +4,13 @@
 
 <br/>
 
-I'm Ramazan, Software Engineer, Instructor, Mentor and researcher of the future.
+I'm Ramazan, Software Engineer, Architect, Instructor, Mentor and researcher of the future.
 <br/>
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I’m currently trying to get a certificate on AWS!
-- 🤔 I'm looking for helping with solving coding issues!
+- 🚀 I'm improving myself on Python/Django!
 
 <br/>
 
