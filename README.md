@@ -16,7 +16,7 @@ I'm Ramazan, Software Engineer, Architect, Instructor, Mentor and researcher of 
 
 ![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java&&NodeJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java&&Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <br/>
