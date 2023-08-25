@@ -24,4 +24,6 @@ I'm Ramazan, Software Engineer, Architect, Instructor, Mentor and researcher of 
 <br/>
 <a href="https://github.com/ramazansakin">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramazansakin&show_icons=true&theme=darcula&show_icons=true&include_all_commits=true&count_private=true" alt="Ramazan Sakin" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramazansakin&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="Ramazan Sakin" />
+
 </a>
