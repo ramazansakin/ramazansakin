@@ -23,6 +23,6 @@ I'm Ramazan, Software Engineer, Architect, Instructor, Mentor and researcher of 
 
 <br/>
 <a href="https://github.com/ramazansakin">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api" alt="Ramazan Sakin" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramazansakin" alt="Ramazan Sakin" />
 
 </a>
