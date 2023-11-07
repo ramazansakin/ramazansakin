@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm Ramazan, Software Engineer, Architect, Instructor, Mentor and researcher of the future.
+I'm Ramazan, Software Engineer, Architect, Instructor and researcher of the future.
 <br/>
 
 
