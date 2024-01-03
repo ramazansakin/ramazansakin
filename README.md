@@ -8,10 +8,6 @@ I'm Ramazan, Software Engineer & Architect, Instructor and researcher of the fut
 <br/>
 
 
-- I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently trying to get a certificate on AWS!
-- 🚀 I'm improving myself on Python/Django!
-
 <br/>
 
 ![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
