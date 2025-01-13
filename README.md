@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm Ramazan, Software Engineer & Architect, Instructor and researcher of the future.
+I'm Ramazan, Software Engineer & Architect, Instructor and researcher of the future. I'm looking for open source projects to contribute or we can talk and create a project from stract!
 <br/>
 
 
